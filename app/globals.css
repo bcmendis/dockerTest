@@ -28,7 +28,7 @@ a {
     @apply flex-1 text-gray-700 p-6 md:px-20 md:py-16;
   }
   .form_header {
-   @apply text-center md:text-left text-xl md:text-3xl pb-2 font-bold ;
+   @apply text-center md:text-left text-xl md:text-3xl pb-2 font-bold;
   }
   .form_label {
     @apply block text-xs sm:text-sm pb-2 font-semibold;
